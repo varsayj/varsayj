@@ -3,9 +3,8 @@
 
 <h2>👨‍💻 IoT environment setup:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>IoT project</b>
   - [https://github.com/varsayj/IoT-project](https://github.com/varsayj/IoT-project)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 <h2>EDUCATION</h2>
 <br/> Network Adminstration Diploma 2022/09/-2023/12<br/>
