@@ -7,8 +7,10 @@
   - [https://github.com/varsayj/IoT-project](https://github.com/varsayj/IoT-project)
 
 <h2>EDUCATION</h2>
-<br/> Network Adminstration Diploma 2022/09/-2023/12<br/>
-<br/>Red Deer Polytechnic<br/>
+<br/> Network Adminstration Diploma 2022/09/-2023/12
+
+ Red Deer Polytechnic<br/>  
+                                                      
   
 
 <!--
